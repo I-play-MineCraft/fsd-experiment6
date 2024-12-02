@@ -1,10 +1,10 @@
-// this program needs mongodb app
+// this program needs mongodb app if it not installed then install it in the https://www.mongodb.com/try/download/community
+// scroll down and download the msi file and installit 
 // to run this code u have to write code in the terminal 
 // node app.py 
 // but before running the code u have to install the dependencies by simply write
 // npm install mongodb 
 // now u can run
-
 
 const { MongoClient } = require('mongodb');
 // MongoDB Connection URI and Database Name
